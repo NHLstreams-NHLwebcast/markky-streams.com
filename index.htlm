@@ -3,26 +3,25 @@
 <html lang="en">
     <head>
         <meta charset="utf-8"/>
-        <title>Markkystreams - Stream Live Sports NFL, MLB, NBA, NHL and Soccer</title>
+        <title>MarkkyStreams | Markky Streams - Free Live Stream in High Quality</title>
         <meta name="description" content="Watch live sports on Markkystreams without registration. Stream NFL, NBA, soccer, and more for free. Enjoy HD quality and never miss a game. Click to start!">
         <meta name="keywords" content="Markkystreams, no login Sports Streams, free sports streaming, live NFL streams, NBA streams USA, UFC streams free, sports streaming platform, live sports USA, watch live sports, free sports streaming, watch tv channels online, free tv streaming, no registration streaming"/>
-        
+        <link rel="canonical" href="https://v1-nfl-hunter.pages.dev/" itemprop="url">
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta name="robots" content="index, follow"/>
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"/>
-        <link href="css/style.css" rel="stylesheet"/>
-        
-        <link rel="shortcut icon" type="image/x-icon" href="./images/watch-live-soccer-streams-icon.png"/>
-        <script>document.addEventListener("DOMContentLoaded",()=>{document.querySelectorAll(".bntl").forEach(n=>{n.addEventListener("click",()=>{window.open("https://watchsports.sbs/","_blank")})})});
-        </script>
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <meta property="og:image" content="https://v2-markkystreams.pages.dev/images/watch-live-soccer-streams.jpg">
+        <link href="/style.css" rel="stylesheet"/>
+
     </head>
     <body>
         <div class="content">
             <div class="container">
                 <div class="header">
-                    <img src="images/watch-live-soccer-streams-logo.png" width="133" height="66" alt="Markkystreams">
-                        <h1>Markkystreams - Stream Live Sports NFL, MLB, NBA, NHL and Soccer</h1>
+                    <img src="/logo.png" width="133" height="66" alt="Markkystreams">
+                        <h1>MarkkyStreams | Markky Streams - Free Live Stream in High Quality</h1>
                 </div>
                 <div class="main">
                     <span>Please press Ctrl + D to bookmark this site to keep update about Markkystreams-official domains.</span>
@@ -44,7 +43,7 @@
                        
                        <p><strong>Markkystreams</strong> is a <em>free online streaming platform</em> that lets you <strong>watch live sports without the hassle of registration</strong>. Enjoy <em>HD quality streams</em> of NFL, NBA, soccer, and more with just a click.</p>
 
-                        <img src="./images/watch-live-soccer-streams.jpg" alt="Markkystreams" width="500" height="326" />
+                        <img src="https://v2-markkystreams.pages.dev/images/watch-live-soccer-streams.jpg" alt="Markkystreams" width="500" height="326" />
                         
                         
                         <h2><strong>Why Choose Markkystreams?</strong></h2>
