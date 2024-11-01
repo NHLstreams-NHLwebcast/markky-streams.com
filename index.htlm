@@ -26,18 +26,8 @@
                 <div class="main">
                     <span>Please press Ctrl + D to bookmark this site to keep update about Markkystreams-official domains.</span>
                     <ul class="m-list">
-                        <li class="bntl">
-                            <span>Markkystreams</span>
-                            <span>live</span>
-                        </li>
-                        <li class="bntl">
-                            <span>Markkystreams Football</span>
-                            <span>live</span>
-                        </li>
-                        <li class="bntl">
-                            <span>Markkystreams Basketball</span>
-                            <span>live</span>
-                        </li>
+                      <div class="navbar navbar-default" role="navigation">
+							<div class="navbar-collapse collapse"><ul id="menu-footer-menu" class="nav navbar-nav"><li id="menu-item-18913" class="menu-item menu-item-type-post_type menu-item-object-page airkit_menu-full dropdown simple"><a href="https://nflstreamz.net/"  ><i class="icon-reddit"></i>NFL Streams</a></li><li id="menu-item-18911" class="menu-item menu-item-type-post_type menu-item-object-page airkit_menu-full dropdown simple"><a href="https://nbakings.xyz/"  ><i class="icon-reddit"></i>NBA Streams</a></li><li id="menu-item-18908" class="menu-item menu-item-type-post_type menu-item-object-page airkit_menu-full dropdown simple"><a href="http://billing.tazz.tv/crm/aff/go/hdpass?i=10"  ><i class="icon-reddit"></i>MLB Streams</a></li><li id="menu-item-69120" class="menu-item menu-item-type-post_type menu-item-object-page airkit_menu-full dropdown simple"><a href="https://nhlstreamz.net/"  >NHL Streams</a></li><li id="menu-item-20659" class="menu-item menu-item-type-post_type menu-item-object-page airkit_menu-full dropdown simple"><a href="http://billing.tazz.tv/crm/aff/go/hdpass?i=2"  ><i class="icon-reddit"></i>CFB Streams</a></li><li id="menu-item-18919" class="menu-item menu-item-type-post_type menu-item-object-page airkit_menu-full dropdown simple"><a href="http://billing.tazz.tv/crm/aff/go/hdpass?i=12"  ><i class="icon-reddit"></i>Boxing Streams</a></li><li id="menu-item-69166" class="menu-item menu-item-type-post_type menu-item-object-page airkit_menu-full dropdown simple"><a href="http://billing.tazz.tv/crm/aff/go/hdpass?i=14"  >MMA Streams</a></li><li id="menu-item-69165" class="menu-item menu-item-type-post_type menu-item-object-page airkit_menu-full dropdown simple"><a href="http://billing.tazz.tv/crm/aff/go/hdpass?i=2"  >WWE Streams</a></li><li id="menu-item-18920" class="menu-item menu-item-type-post_type menu-item-object-page airkit_menu-full dropdown simple"><a href="http://billing.tazz.tv/crm/aff/go/hdpass?i=11"  ><i class="icon-reddit"></i>F1 streams</a></li><li id="menu-item-69053" class="menu-item menu-item-type-post_type menu-item-object-page airkit_menu-full dropdown simple"><a href="http://billing.tazz.tv/crm/aff/go/hdpass?i=3"  ><i class="icon-soccer-ball"></i>Soccer Streams</a></li><li id="menu-item-69325" class="menu-item menu-item-type-post_type menu-item-object-page airkit_menu-full dropdown simple"><a href="http://billing.tazz.tv/crm/aff/go/hdpass?i=18"  >NCAAB Streams</a></li></ul></div>
                     </ul>
                     <div class="faq">
                        
